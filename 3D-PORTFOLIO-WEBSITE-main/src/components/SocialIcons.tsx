@@ -79,7 +79,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://x.com/thenameisabhishek"
+            href="https://x.com/___abhisingh17"
             target="_blank"
             rel="noreferrer"
           >
@@ -88,7 +88,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.instagram.com/thenameisabhishek/"
+            href="https://www.instagram.com/abhisekhsingh_/"
             target="_blank"
             rel="noreferrer"
           >
@@ -98,7 +98,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="https://drive.google.com/file/d/1Zlu8tWP5RXHbl3QKbYDgTzrJ5kWvTNw8/view?usp=sharing"
+        href="https://drive.google.com/file/d/1MIZnJFq4bZ_RA_zqpcdNwKH7c5eCImvo/view?usp=drive_link"
         target="_blank"
         rel="noreferrer"
       >
