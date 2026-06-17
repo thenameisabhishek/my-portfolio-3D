@@ -16,7 +16,7 @@ const Career = () => {
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Co-Founder</h4>
-                <h5>Shivamorphosis</h5>
+                <h5>MR. ABHISHEK KUMAR</h5>
               </div>
               <h3>NOW</h3>
             </div>
