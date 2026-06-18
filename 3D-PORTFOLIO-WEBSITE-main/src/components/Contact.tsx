@@ -58,7 +58,7 @@ const Contact = () => {
               Twitter <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/thenameisabhishek/"
+              href="https://www.instagram.com/abhisekhsingh_/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
